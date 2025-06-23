@@ -18,5 +18,6 @@
 
 # 🔧 Tech Stack:
 
-![image](https://github.com/user-attachments/assets/7b3c2a9e-58db-4fa7-86f1-5d40198c2c20)
+![image](https://github.com/user-attachments/assets/4b0fb056-64c5-4383-b0b4-9689de1a0a97)
+
 
