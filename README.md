@@ -29,8 +29,15 @@
 
 ![Minna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinnaFathima&show_icons=true&theme=tokyonight)
 
+### 🧠 Top Languages Used 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinnaFathima&layout=compact&theme=tokyonight)
 
+
+### 📈 Github Contribution Graph
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MinnaFathima&theme=tokyo-night)
+
+### 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MinnaFathima&theme=monokai)
