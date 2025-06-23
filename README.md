@@ -16,7 +16,7 @@
 
 ⚡ Looking for job referrals – let’s connect and build something great together! 😉
 
-🔧 Tech Stack:
+# 🔧 Tech Stack:
 
 ![image](https://github.com/user-attachments/assets/7b3c2a9e-58db-4fa7-86f1-5d40198c2c20)
 
