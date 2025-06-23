@@ -17,7 +17,6 @@
 ⚡ Looking for job referrals – let’s connect and build something great together! 😉
 
 
-      Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=minna-fathima
       
 
 # 🔧 Tech Stack:
