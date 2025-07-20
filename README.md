@@ -1,6 +1,5 @@
 # Minna Fathima | MTech Integrated - Software Engineering at VIT Chennai
 
-# Vellore Institute of Technology, Chennai (2021-2026)
 
 - Passionate about exploring new technologies and building impactful projects 
 
