@@ -1,19 +1,12 @@
-# Minna Fathima | MTech Integrated - Software Engineering at VIT Chennai
+👋 Hi, I’m Minna
+🎓 M.Tech (Integrated) in Software Engineering
+💼 Aspiring professional in AI ML / Data Analytics / Software Engineering / Web Development
+🌍 Open to opportunities in India & Abroad
 
+📫 Let’s Connect
 
-- Passionate about exploring new technologies and building impactful projects 
-
-- Passionate about AI, ML, Web Development and Software Development  
-
-- Reach me at minnafathima1401@gmail.com
-
-- Open to internships, collaborations, and innovative team projects  
-
-- Eager to grow in the field of Software Engineering  
-
-- Looking for job referrals – let’s connect and build something great together! 😉
-
-
+🔗 LinkedIn: [https://www.linkedin.com/in/minna-fathima/]
+📧 Email: [minnafathima1401@gmail.com]
       
 
 # 🔧 Tech Stack:
