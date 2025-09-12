@@ -7,7 +7,8 @@
 🌍 Open to opportunities in 𝐈𝐧𝐝𝐢𝐚 & 𝐀𝐛𝐫𝐨𝐚𝐝
 
 
-📫 Let’s Connect
+
+# 📫 Let’s Connect
 
 🔗 LinkedIn: [https://www.linkedin.com/in/minna-fathima/]
 📧 Email: [minnafathima1401@gmail.com]
