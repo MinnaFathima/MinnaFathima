@@ -1,6 +1,9 @@
-👋 Hi, I’m Minna
+#👋 Hi, I’m Minna
+
 🎓 M.Tech (Integrated) in Software Engineering
+
 💼 Aspiring professional in AI ML / Data Analytics / Software Engineering / Web Development
+
 🌍 Open to opportunities in India & Abroad
 
 📫 Let’s Connect
