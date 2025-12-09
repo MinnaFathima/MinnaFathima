@@ -4,7 +4,7 @@
 
 💼 Aspiring professional in AI/ML | Data Analytics | Software Engineering | Web Development
  
-🌍 Open to opportunities in 𝐈𝐧𝐝𝐢𝐚 & 𝐀𝐛𝐫𝐨𝐚𝐝
+🌍 Open to opportunities in 𝐈𝐧𝐝𝐢𝐚 
 
 
 
